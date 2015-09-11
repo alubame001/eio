@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 	//"os"
-	. "tools/engine"
+	. "github.com/alubame001/eio/src/tools/engine"
 )
 
 func onConnection(client *Client) {
